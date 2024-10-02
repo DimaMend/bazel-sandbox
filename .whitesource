@@ -1,0 +1,16 @@
+{
+  "settingsInheritedFrom": "DimaMend/whitesource-config@main",
+  "scanSettingsSAST": {
+    "enableScan": "false"
+  },
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": false
+    },
+    "enableRenovate": true,
+    "extends": [
+      "config:recommended",
+      "mergeConfidence:all-badges"
+    ]
+  }
+}
