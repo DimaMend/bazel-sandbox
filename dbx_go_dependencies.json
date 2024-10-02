@@ -1,0 +1,20 @@
+[
+  {
+    "importpath": "aqwari.net/retry",
+    "name": "net_aqwari_retry",
+    "version": "v0.0.0-20180428204214-1281ce5d8df0",
+    "sum": "h1:BeD6U5TNwhMWxeydyi5xqpaNZx1MWl5QTcW4w7Mxf+Y=",
+    "commit": "",
+    "url": "https://artifactory.internal/artifactory/golang-local/aqwari.net/retry/@v/v0.0.0-20180428204214-1281ce5d8df0.zip",
+    "sha256": "74b6e1784b38dc19d66689e8c1fbb60da7e6c61514fd175b3971b99be2a588bb"
+  },
+    {
+    "importpath": "cloud.google.com/go/apigateway",
+    "name": "com_google_cloud_go_apigateway",
+    "version": "v1.6.1",
+    "sum": "h1:aBSwCQPcp9rZ0zVEUeJbR623palnqtvxJlUyvzsKGQc=",
+    "commit": "",
+    "url": "https://artifactory.internal/artifactory/golang-local/cloud.google.com/go/apigateway/@v/v1.6.1.zip",
+    "sha256": "c0251d9e4a0ebd9433d73c1f083a67647a87ba8873ff306cc9759d2ca437cb60"
+  },
+]
